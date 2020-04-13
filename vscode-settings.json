@@ -1,0 +1,109 @@
+{
+    "cSpell.words": [
+        "cdate",
+        "crossdomain",
+        "devtool",
+        "frameguard",
+        "genid",
+        "monit",
+        "netjet",
+        "printf",
+        "resave",
+        "sdate",
+        "staticify",
+        "tmpl",
+        "tokgen",
+        "ucfirst"
+    ]
+}
+
+{
+  "sync.gist": "a4093af0491adeee36e365af4888b3ec",
+  "sync.autoUpload": true,
+
+  "javascript.updateImportsOnFileMove.enabled": "always",
+
+  "window.zoomLevel": 0,
+
+  "php-cs-fixer.onsave": true,
+  "php-cs-fixer.executablePath": "${extensionPath}\\php-cs-fixer.phar",
+  "php-cs-fixer.lastDownload": 1576299937446,
+  "editor.lineHeight": 27,
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "400",
+  "editor.minimap.enabled": false,
+  "editor.fontFamily": "Fira Code",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.renderIndentGuides": false,
+  "editor.suggestSelection": "first",
+  "editor.snippetSuggestions": "top",
+
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.visible": true,
+  "workbench.editor.enablePreview": false,
+
+  "files.trimTrailingWhitespace": true,
+  "breadcrumbs.enabled": false,
+  "emmet.includeLanguages": {
+      "javascript": "javascriptreact",
+      "blade" : "html"
+  },
+
+  "search.useIgnoreFiles": false,
+  "eslint.validate": [
+      {
+        "language": "vue",
+        "autoFix": true
+      },
+      {
+        "language": "html",
+        "autoFix": true
+      },
+      {
+        "language": "javascript",
+        "autoFix": true
+      }
+    ],
+
+  "[less]": {
+      "editor.formatOnSave": true
+  },
+
+  "[php]": {
+      "editor.defaultFormatter": "junstyle.php-cs-fixer"
+  },
+
+  "[javascriptreact]": {
+    "editor.formatOnSave": true
+  },
+
+  "[javascript]": {
+      "editor.formatOnSave": true,
+      "editor.fontLigatures": "'ss02', 'ss19'",
+  },
+
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Visual Studio Dark",
+
+
+  "material-icon-theme.hidesExplorerArrows": true,
+  "terminal.integrated.fontSize": 14,
+
+  "gitlens.currentLine.enabled": false,
+  "gitlens.hovers.currentLine.over": "line",
+
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "explorer.confirmDragAndDrop": false,
+  "cSpell.userWords": [
+    "alasm"
+  ],
+  "[html]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "git.enableSmartCommit": true
+}
