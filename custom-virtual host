@@ -1,0 +1,13 @@
+File Path : C:\xampp\apache\conf\extra
+
+<VirtualHost 127.0.0.16:80>
+	ServerAdmin webmaster@dummy-host2.example.com
+	DocumentRoot "C:/xampp/htdocs/folder-name"
+	ServerName domain.local
+	ServerAlias www.domain.local
+	ErrorLog "logs/dummy-host2.example.com-error.log"
+	CustomLog "logs/dummy-host2.example.com-access.log" common
+</VirtualHost>
+
+File Path : C:\Windows\System32\drivers\etc
+
