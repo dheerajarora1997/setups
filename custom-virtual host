@@ -1,4 +1,4 @@
-File Path : C:\xampp\apache\conf\extra
+File Path : C:\xampp\apache\conf\extra/httpd-vhosts.conf
 
 <VirtualHost 127.0.0.16:80>
 	ServerAdmin webmaster@dummy-host2.example.com
@@ -9,5 +9,10 @@ File Path : C:\xampp\apache\conf\extra
 	CustomLog "logs/dummy-host2.example.com-access.log" common
 </VirtualHost>
 
-File Path : C:\Windows\System32\drivers\etc
+File Path : C:\Windows\System32\drivers\etc\hosts
+
+127.0.0.1 localhost
+127.0.0.16 domain.local www.doamin.local
+
+
 
