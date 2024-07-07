@@ -25,6 +25,9 @@ composer dump-autoload -o
 
 #code in.env file
 
+# Email config video
+https://www.youtube.com/watch?v=nNGcvz1Sc_8
+
 # Example Of Local Environment File
 APP_ENV=local
 
@@ -77,6 +80,10 @@ define('AUTH_SALT', '>tcV6wvTN.MV8z0S:4tH;(}U>PH}ij|III7xY/Hd.IaA#T}x*cPhvBXaY|h
 define('SECURE_AUTH_SALT', 'q6nf0iH&(LbYf!!5NT@fU[Eocd,cqgejUio]}SOeWAIh?WG$YIYjq9?^6Og83_xI');
 define('LOGGED_IN_SALT', '7Gh^~F9XeABK~*nm5zhq0+rfQC9Y7CbE<Y@L)|JW:b~`[:V9ER^Tn?S)v7:}|C3+');
 define('NONCE_SALT', 'u#wbIL{b7aSPb*Dat&*m5|~d<}SW7B V0 XTt5P*+Y]2Rn:Zb/LmNuI<x0pY:qY@');
+
+
+
+
 
 
 
