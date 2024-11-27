@@ -1,5 +1,5 @@
 # setups
-
+# for compile sass to  css in min - sass --style=compressed scss:css
 #Homestead vagrant index file
 {"version":1,"machines":{"95c6d42e096b4ac7ae9b8a953e2d3ddf":{"local_data_path":"E:/code/Homestead/.vagrant","name":"homestead","provider":"virtualbox","state":"saved","vagrantfile_name":null,"vagrantfile_path":"E:/code/Homestead","updated_at":null,"extra_data":{"box":{"name":"laravel/homestead","provider":"virtualbox","version":"8.1.0"}}}}}
 
